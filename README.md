@@ -37,7 +37,7 @@
 
 <details id="aliens">
   <summary>Aliens</summary>
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
+  <img src="Python/Aliens-Ship/screenshot-game/game.png" alt="screenshot" />
 
 ## Getting Started
 
@@ -50,7 +50,7 @@ To run the game need to install pygame.
   ```bash
     $ python -m pip install --user pygame
   ```
-* In the project path
+* In project path
   ```bash
     $ python alien.py
   ```
