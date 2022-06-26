@@ -28,12 +28,46 @@
 # Programing Languages
 
 - [Python](#python)
+  * [Github api](#github-api)
   * [Aliens](#aliens)
+  
 
 
 ## Samples
 
 #### Python
+
+<details id="github-api">
+  <summary>Github API</summary>
+
+  ## Getting Started
+  A basic request sample to the github api that request to total of repositories for specific language (you can choose the lenguage).
+
+```
+.
+├── Python          
+│   ├── github-api
+│   └── ...
+└── ...
+```
+### Prerequisites
+
+To run the game need to install pygame.
+* pip
+  ```bash
+    $ python -m pip install --user requests
+    $ python -m pip install --user plotly
+  ```
+* In project path
+  ```bash
+    $ python python_repos.py
+  ```
+* Run test
+  ```bash
+    python3 -m unittest discover
+  ```
+
+</details>
 
 <details id="aliens">
   <summary>Aliens</summary>
@@ -43,6 +77,13 @@
 
 This is an example of a minigame.
 
+```
+.
+├── Python          
+│   ├── Aliens-Ship
+│   └── ...
+└── ...
+```
 ### Prerequisites
 
 To run the game need to install pygame.
@@ -55,16 +96,6 @@ To run the game need to install pygame.
     $ python alien.py
   ```
 
-> Project path
-
-
-```
-.
-├── Python          
-│   ├── Aliens-Ship
-│   └── ...
-└── ...
-```
 </details>
 
 
