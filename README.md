@@ -93,7 +93,7 @@ To run the game need to install pygame.
   ```
 * In project path
   ```bash
-    $ python alien.py
+    $ python alien_battle.py
   ```
 
 </details>
