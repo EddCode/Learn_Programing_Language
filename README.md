@@ -30,6 +30,7 @@
 - [Python](#python)
   * [Github api](#github-api)
   * [Aliens](#aliens)
+  * [Binary Search](#binary)
   
 
 
@@ -40,7 +41,7 @@
 <details id="github-api">
   <summary>Github API</summary>
 
-  ## Getting Started
+## Getting Started
   A basic request sample to the github api that request to total of repositories for specific language (you can choose the lenguage).
 
 ```
@@ -98,6 +99,21 @@ To run the game need to install pygame.
 
 </details>
 
+<details id="banary">
+  <summary>Banary search algorith</summary>
+  
+  ## Getting Started
+  
+  This is just a simple algorithm to search an element into an ordered array 
 
-
-
+  ```
+  .
+  ├── Python          
+  │   ├── Algorithms
+  │   │   ├── binar-search.py
+  │   │   └── ...
+  │   └── ...
+  └── ...
+  ```
+  
+</details>
